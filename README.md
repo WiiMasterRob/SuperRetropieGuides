@@ -25,4 +25,4 @@
 
 ### We can't wait to hear from you at:
 
-![Youtube](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Youtube.png) ![Twitter](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Twitter.png) ![FaceBook](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/FBlogo.png) ![Instagram](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Instagram.png) ![Reddit](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Reddit.png)
+[![Youtube](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Youtube.png)](https://www.youtube.com/channel/UColJM59KTw-Ty5SiudsTt6A) [![Twitter](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Twitter.png)](https://www.twitter.com) [![Facebook](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/FBlogo.png)](https://www.facebook.com/groups/wiiwiiumodders) [![Instagram](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Instagram.png)](https://www.instagram.com) [![Reddit](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Reddit.png)](https://www.reddit.com)
