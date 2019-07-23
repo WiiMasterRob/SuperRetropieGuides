@@ -5,7 +5,7 @@
 
 # Wii U Softmod Guide
 
-* Go to the files setion and download "Wii U Softmod Files"
+* Go to the [files setion](https://www.facebook.com/groups/wiiwiiumodders/files/) and download "Wii U Softmod Files"
 
 * Using 7zip or WinRar extract "SD Root" to your desktop
 
