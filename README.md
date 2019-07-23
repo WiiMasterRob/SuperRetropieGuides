@@ -25,4 +25,4 @@
 
 ### Check us out on:
 
-![Youtube](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Youtube.png) ![Twitter](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Twitter.png) ![FaceBook](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/FBlogo.png)
+![Youtube](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Youtube.png) ![Twitter](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Twitter.png) ![FaceBook](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/FBlogo.png) ![Instagram](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Instagram.png)
