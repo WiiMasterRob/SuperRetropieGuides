@@ -3,7 +3,7 @@
   > #### **Welcome Wii And Wii U Modders to our Guides page.  More guides will be added soon.**
 
 
-# NO Thrills Basic How-tO Softmod A Wii Guide August 2019
+# NO Thrills Basic How-to Softmod A Wii Guide August 2019
 
 
 * Format for sd card, make sure to use FAT32
