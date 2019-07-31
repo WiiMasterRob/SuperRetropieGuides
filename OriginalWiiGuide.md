@@ -6,7 +6,7 @@
 # NO Thrills Basic How-to Softmod A Wii Guide August 2019
 
 
-* Format for sd card, make sure to use FAT32
+* Format your sd card, make sure to use FAT32
 
 
 * Go to [https://please.hackmii.com/](https://please.hackmii.com/) and enter your unique MAC Address then cut either the blue or red wire(does not matter which one) it will then download a file called "Letterbomb.zip"
