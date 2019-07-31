@@ -18,7 +18,7 @@
 * Connect your Wii to the internet via Wifi, it will be needed later
 
 
-* put your sd card back in the Wii and then go into Wii Message Board(lower right corner) scroll back a day or 2 to find the red envelope then click on it, wait for the timer then press "1", select continue, highlight and select "Install The Homebrew Channel", highlight and select "Yes, continue", once install select "continue" again, highligh and select "exit" .... exit back to the main Wii System screen
+* Put your sd card back in the Wii and then go into Wii Message Board(lower right corner) scroll back a day or 2 to find the red envelope then click on it, wait for the timer then press "1", select continue, highlight and select "Install The Homebrew Channel", highlight and select "Yes, continue", once install select "continue" again, highligh and select "exit" .... exit back to the main Wii System screen
 
 * Delete the leftover files from letterbomb or re-format your sd card, the extract the contents of "SD CARD FRESH" to your sd card, then put it back into your Wii
 
