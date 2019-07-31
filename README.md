@@ -2,6 +2,7 @@
 
   > #### **Welcome Wii And Wii U Modders to our Guides page.  More guides will be added soon.**
 
+For Original Nintendo Wii, [please see the Original Wii Guide here.](https://wiimasterrob.github.io/Wii-And-Wii-U-Guides/OriginalWiiGuide)
 
 # Wii U Softmod Guide
 
