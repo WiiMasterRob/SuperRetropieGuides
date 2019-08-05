@@ -1,6 +1,8 @@
 ![Banner Image](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Banner-short.jpg)
 
-  > #### **Welcome Wii And Wii U Modders to our Guides page.  More guides will be added soon.**
+[Back to Index](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/)
+
+> #### **Welcome Wii And Wii U Modders to our Guides page.  More guides will be added soon.**
 
 For Nintendo Wii U [please see the Wii U Guide here.](https://wiimasterrob.github.io/Wii-And-Wii-U-Guides/)
 
@@ -34,6 +36,8 @@ For Nintendo Wii U [please see the Wii U Guide here.](https://wiimasterrob.githu
 
 
 * You should now be able to play games from a hard drive :)
+
+[Back to Index](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/)
 
 ## Head back to our [Facebook Group](https://www.facebook.com/groups/wiiwiiumodders)
 
