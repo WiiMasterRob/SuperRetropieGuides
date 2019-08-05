@@ -6,6 +6,7 @@
 
 1. [WiiU Softmod Guide](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/WiiUSoftMod)
 1. [Original Wii mod Guide](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/OriginalWiiGuide)
+1. More coming soon
 
 
 
