@@ -1,6 +1,8 @@
 ![Banner Image](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Banner-short.jpg)
 
-  > #### **Welcome Wii And Wii U Modders to our Guides page.  More guides will be added soon.**
+[Back to Index](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/)
+
+> #### **Welcome Wii And Wii U Modders to our Guides page.  More guides will be added soon.**
 
 For Original Nintendo Wii, [please see the Original Wii Guide here.](https://wiimasterrob.github.io/Wii-And-Wii-U-Guides/OriginalWiiGuide)
 
@@ -20,6 +22,7 @@ For Original Nintendo Wii, [please see the Original Wii Guide here.](https://wii
 
    > We recommend going with the Brain Age/Haxchi method. There is also a web exploit method that is free called Mocha but please be aware that the Mocha method requires running the web exploit after every reboot
 
+[Back to Index](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/)
 
 
 ## Head back to our [Facebook Group](https://www.facebook.com/groups/wiiwiiumodders)
