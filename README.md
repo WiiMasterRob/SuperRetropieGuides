@@ -4,21 +4,10 @@
 
 For Original Nintendo Wii, [please see the Original Wii Guide here.](https://wiimasterrob.github.io/Wii-And-Wii-U-Guides/OriginalWiiGuide)
 
-# Wii U Softmod Guide
+# Guides Index
 
-* Go to the [files setion](https://www.facebook.com/groups/wiiwiiumodders/files/) and download "Wii U Softmod Files"
-
-* Using 7zip or WinRar extract "SD Root" to your desktop
-
-* Copy the contents of that extracted folder to the root of your SD card
-
-* Once done copying the file to your sd card, stick it back in the Wii U
-
-* Go to [https://wiiu.hacks.guide/](https://wiiu.hacks.guide/) for the online mod guide
-
-* Once you read over the discription, scroll down and click on "Get Started"
-
-   > We recommend going with the Brain Age/Haxchi method. There is also a web exploit method that is free called Mocha but please be aware that the Mocha method requires running the web exploit after every reboot
+1. [WiiU Softmod Guide](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/WiiUSoftMod)
+1. [Original Wii mod Guide](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/OriginalWiiGuide)
 
 
 
