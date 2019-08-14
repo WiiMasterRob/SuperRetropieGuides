@@ -1,2 +1,4 @@
 title: Wii-And-Wii-U-Guides
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-seo-tag
