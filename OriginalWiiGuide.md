@@ -23,7 +23,7 @@ For Nintendo Wii U [please see the Wii U Guide here.](https://wiimasterrob.githu
 
 * Put your sd card back in the Wii and then go into Wii Message Board(lower right corner) scroll back a day or 2 to find the red envelope then click on it, wait for the timer then press "1", select continue, highlight and select "Install The Homebrew Channel", highlight and select "Yes, continue", once install select "continue" again, highligh and select "exit" .... exit back to the main Wii System screen
 
-* Delete the leftover files from letterbomb or re-format your sd card, then extract the contents of "SD CARD FRESH" to your sd card, then put it back into your Wii.  [See the files section for SD CARD FRESH here](https://www.facebook.com/groups/wiiwiiumodders/files/)
+* Delete the leftover files from letterbomb or re-format your sd card, then extract the contents of "SD CARD FRESH" to your sd card, then put it back into your Wii.  [See the files section for SD CARD FRESH here](https://www.facebook.com/notes/wii-wii-u-modders/sd-card-fresh/535410387195559/)
 
 
 * Load "d2x cIOS Installer" install version 249 and 250
