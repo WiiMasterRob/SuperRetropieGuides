@@ -8,7 +8,7 @@ For Original Nintendo Wii, [please see the Original Wii Guide here.](https://wii
 
 # Wii U Softmod Guide
 
-* Go to the [files setion](https://www.facebook.com/groups/wiiwiiumodders/files/) and download "Wii U Softmod Files"
+* Go to the SD Root and download [Wii U Softmod Files](https://www.facebook.com/notes/wii-wii-u-modders/sd-root/535431570526774/)
 
 * Using 7zip or WinRar extract "SD Root" to your desktop
 
