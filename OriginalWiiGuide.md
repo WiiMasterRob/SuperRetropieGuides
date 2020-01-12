@@ -32,7 +32,7 @@ For Nintendo Wii U [please see the Wii U Guide here.](https://wiimasterrob.githu
    [![249](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/249thumb.png)](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/249.jpg) [![250](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/250thumb.png)](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/250.jpg)
 
 
-* Load "Multi-Mod Manager 13.4" scroll down and select “Load Another IOS” highlight and select "150", select "WAD Manager", then select "WADS", then select "USB Loader GX-UNEO_Forwarder_5_1_AHBPROT.wad" to install the Homebrew Channel Forwarder, then "Home" to exit
+* Load "Multi-Mod Manager 13.4" scroll down and select “Load Another IOS” highlight and select "250", select "WAD Manager", then select "WADS", then select "USB Loader GX-UNEO_Forwarder_5_1_AHBPROT.wad" to install the Homebrew Channel Forwarder, then "Home" to exit
 
 
 * You should now be able to play games from a hard drive :)
