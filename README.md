@@ -1,7 +1,5 @@
 ![Banner Image](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Banner-short.jpg)
 
-  > #### **Welcome Wii And Wii U Modders to our Guides page.  More guides will be added soon.**
-
 # Guides Index
 
 1. [Wii U Softmod Guide](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/WiiUSoftMod)
