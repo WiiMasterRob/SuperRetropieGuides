@@ -6,7 +6,7 @@
 
 For Nintendo Wii U [please see the Wii U Guide here.](https://wiimasterrob.github.io/Wii-And-Wii-U-Guides/)
 
-# NO Thrills Basic How-to Softmod A Wii Guide August 2019
+# NO Thrills Basic How-to Softmod A Wii Guide May 2020
 
 
 * Format your sd card, make sure to use FAT32
