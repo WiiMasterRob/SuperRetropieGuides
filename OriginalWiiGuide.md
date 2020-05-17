@@ -25,7 +25,7 @@ For Nintendo Wii U [please see the Wii U Guide here.](https://wiimasterrob.githu
 
 * Delete the leftover files from letterbomb or re-format your sd card, make sure it's formatted into FAT32
 
-* Download  [SD CARD FRESH](https://mega.nz/file/jVkRBKrY#apZdW69bSguC3pLKwOosfxdua3hrhb7epMDaQTDUuGE) and extract the contents to your sd card, then put it back into your Wii. 
+* Download  [SD CARD FRESH](https://mega.nz/file/jVkRBKrY#apZdW69bSguC3pLKwOosfxdua3hrhb7epMDaQTDUuGE) and extract the contents to the root your sd card, then put it back into your Wii. 
 
 
 * Load "d2x cIOS Installer", install version 249 and 250, the needed settings are provided in the screenshots
