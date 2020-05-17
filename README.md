@@ -4,7 +4,7 @@
 
 # Guides Index
 
-1. [WiiU Softmod Guide](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/WiiUSoftMod)
+1. [Wii U Softmod Guide](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/WiiUSoftMod)
 1. [Original Wii Softmod Guide](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/OriginalWiiGuide)
 1. More coming soon
 
