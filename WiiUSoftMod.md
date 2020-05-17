@@ -1,7 +1,5 @@
 ![Banner Image](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Banner-short.jpg)
 
-[Back to Index](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/)
-
 # Wii U Softmod Guide
 
 * Download [Wii U SD Root](https://mega.nz/file/vVtWxIDT#labhkDPa28OavaRzuD-QzYxJDRrZMPCi5OKLAaXBuGA)
