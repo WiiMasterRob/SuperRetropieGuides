@@ -17,8 +17,6 @@
 [Back to Index](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/)
 
 
-## Head back to our [Facebook Group](https://www.facebook.com/groups/534583420611589)
-
-### We can't wait to hear from you at:
+### Check out our other social media below
 
 [![Youtube](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Youtube.png)](https://www.youtube.com/channel/UColJM59KTw-Ty5SiudsTt6A) [![Twitter](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Twitter.png)](https://twitter.com/WiiWiiUModders) [![Facebook](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/FBlogo.png)](https://www.facebook.com/groups/534583420611589)
