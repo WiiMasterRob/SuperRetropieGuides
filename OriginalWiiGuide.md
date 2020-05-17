@@ -1,11 +1,5 @@
 ![Banner Image](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/Banner-short.jpg)
 
-[Back to Index](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/)
-
-> #### **Welcome Wii And Wii U Modders to our Guides page.  More guides will be added soon.**
-
-For Nintendo Wii U [please see the Wii U Guide here.](https://wiimasterrob.github.io/Wii-And-Wii-U-Guides/)
-
 # NO Thrills Basic How-to Softmod A Wii Guide May 2020
 
 
