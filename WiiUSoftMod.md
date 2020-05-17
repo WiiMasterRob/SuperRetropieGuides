@@ -8,7 +8,7 @@ For Original Nintendo Wii, [please see the Original Wii Guide here.](https://wii
 
 # Wii U Softmod Guide
 
-* Go to the files section and download [Wii U SD Root](https://www.facebook.com/notes/wii-wii-u-modders/wii-u-sd-root/535431570526774/)
+* Go to the files section and download [Wii U SD Root](https://mega.nz/file/vVtWxIDT#labhkDPa28OavaRzuD-QzYxJDRrZMPCi5OKLAaXBuGA)
 
 * Using 7zip or WinRar extract "Wii U SD Root" to the root of your SD card
 
