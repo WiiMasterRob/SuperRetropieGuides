@@ -21,16 +21,15 @@ For Nintendo Wii U [please see the Wii U Guide here.](https://wiimasterrob.githu
 * Connect your Wii to the internet via Wifi, it will be needed later
 
 
-* Put your sd card back in the Wii and then go into Wii Message Board(lower right corner) scroll back a day or 2 to find the red envelope then click on it, wait for the timer then press "1", select continue, highlight and select "Install The Homebrew Channel", highlight and select "Yes, continue", once install select "continue" again, highligh and select "exit" .... exit back to the main Wii System screen
+* Put your sd card back in the Wii and then go into Wii Message Board(lower right corner) scroll back a day or two to find the red envelope then click on it, wait for the timer then press "1", select continue, highlight and select "Install The Homebrew Channel", highlight and select "Yes, continue", once install select "continue" again, highligh and select "exit" .... exit back to the main Wii System screen
 
 * Delete the leftover files from letterbomb or re-format your sd card, make sure it's formatted into FAT32
 
 * Download  [SD CARD FRESH](https://mega.nz/file/jVkRBKrY#apZdW69bSguC3pLKwOosfxdua3hrhb7epMDaQTDUuGE) and extract the contents to your sd card, then put it back into your Wii. 
 
 
-* Load "d2x cIOS Installer" install version 249 and 250
-   * PLEASE REFER TO PICTURES "249" AND "250"
-   
+* Load "d2x cIOS Installer", install version 249 and 250, the needed settings are provided in the screenshots
+      
    [![249](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/249thumb.png)](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/249.jpg) [![250](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/250thumb.png)](https://WiiMasterRob.github.io/Wii-And-Wii-U-Guides/images/250.jpg)
 
 
