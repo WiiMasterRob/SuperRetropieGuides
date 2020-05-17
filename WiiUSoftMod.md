@@ -14,7 +14,7 @@ For Original Nintendo Wii, [please see the Original Wii Guide here.](https://wii
 
 * Once done copying the file to your sd card, stick it back in the Wii U
 
-* Go to [https://wiiu.hacks.guide/](https://wiiu.hacks.guide/) for the online mod guide
+* Go to [https://wiiu.hacks.guide/#/](https://wiiu.hacks.guide/) for the online mod guide
 
 * Once you read over the discription, scroll down and click on "Get Started"
 
